@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GasCalculator</string>
+    <string name="cal">calculate</string>
+    <string name="fuelused">Amount of fuel used %.2f liters</string>
+    <string name="costblank">Cost...</string>
+    <string name="sv">save</string>
+    <string name="cl">clear</string>
+    <string name="tripDistance">Trip distance:</string>
+    <string name="FuelConsumptionPerL">Fuel consumption per liter:</string>
+    <string name="FuelPrice">Fuel price:</string>
+    <string name="NumbOfPeople">Number of people:</string>
+    <string name="TripName">Trip name:</string>
+    <string name="costPerPers">Cost per person %.2f €</string>
+    <string name="km">km</string>
+    <string name="costPerPersonBlank">Cost per person ...€</string>
+    <string name="costBlank">Cost ...€</string>
+    <string name="inputError">This field can\`t be empty!</string>
+    <string name="saveFileTitle">Save info to file!</string>
+    <string name="saveFileMessage">Save data to text file?</string>
+    <string name="intr">Internal</string>
+    <string name="extr">External</string>
+    <string name="saveError">File doesn`t exist!</string>
+    <string name="saveSuccess">File saved to %s/%s</string>
+    <string name="mounted">External storage is mounted</string>
+    <string name="notMounted">Ex storage isn`t mounted</string>
+    <string name="exNonGrant">External storage permission not granted</string>
+    <string name="exGrant">External storage permission granted</string>
+    <string name="litrid">L/100km</string>
+    <string name="price">eur</string>
+</resources>
